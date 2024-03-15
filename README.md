@@ -1,31 +1,6 @@
-# React + TypeScript + Vite
+Omics frontend is developed with react.js (vite, typescript, redux, axios, tailwind and echarts-for-react).
+To run this project run "npm install" and "npm run dev".
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+After run omic-be on your local you can also check this project run on https://omics-i9t1dz2i9-ecems-projects-48039827.vercel.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# omics-data
+<img width="1263" alt="Screenshot 2024-03-15 at 09 47 01" src="https://github.com/ecema/omics-fe/assets/60471205/70160697-b9a5-485d-94fc-708845a5989c">
